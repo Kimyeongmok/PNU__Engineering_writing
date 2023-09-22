@@ -15,6 +15,7 @@ ChatGPT XNUMX월까지 성능 지표에서 상당한 성장을 보여 XNUMX배 �
 
 
 참고문헌
+
 [1]<<’멍청해진' 챗GPT....성능 저하의 이유는?>>, URL:
 https://www.thedailypost.kr/news/articleView.html?idxno=100903
 
